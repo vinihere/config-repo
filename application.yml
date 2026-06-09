@@ -1,8 +1,8 @@
 global:
       message: Welcome to global Microservices Environment!!
-    logginf:
+    logging:
     level:
-    root: INFo
+    root: INFO
     management:
     endpoints:
     web:
