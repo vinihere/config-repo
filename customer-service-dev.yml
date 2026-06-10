@@ -11,6 +11,8 @@ spring:
     url: jdbc:mysql://localhost:3306/customer_master
     username: root
     password: Admin@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
 
   jpa:
     hibernate:
