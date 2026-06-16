@@ -8,7 +8,7 @@ message: Hello from Dev!
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/order_master
+    url: jdbc:h2:mem:order_master
     username: root
     password: Admin@123
     driver-class-name: com.mysql.cj.jdbc.Driver
