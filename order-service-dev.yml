@@ -1,5 +1,5 @@
 global:
-  message: Welcome to customer service dev environment!!
+  message: Welcome to order service dev environment!!
 
 server:
   port: 8083
